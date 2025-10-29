@@ -16,9 +16,3 @@ pip install -r requirements.txt
 
 # 실행
 `python run_experiments.py --trials 1`
-
-----
-
-# dev_memo
-
-`pip freeze > requirements.txt` : requirements.txt 생성
